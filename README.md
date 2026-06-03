@@ -1,2 +1,2 @@
-# AvatarTuoiTho
-Server Avatar Thanh Pho Tuoi Tho
+# AvatarKhangDZ
+Server AvatarKhangDZ
